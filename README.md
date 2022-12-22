@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zer (Front-end Web Developer)
+- 👋 Hi, I’m Zer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
